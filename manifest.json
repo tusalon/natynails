@@ -1,0 +1,22 @@
+{
+  "name": "Natynails",
+  "short_name": "Natynails",
+  "description": "Uñas y belleza - Tu espacio de cuidado personal",
+  "start_url": "/natynails/",
+  "scope": "/natynails/",
+  "display": "standalone",
+  "background_color": "#ec4899",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "/natynails/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/natynails/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
